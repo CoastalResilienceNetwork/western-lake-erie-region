@@ -1,0 +1,24 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org/arcgis/rest/services/New_York",
+            "folderTitle": "New York",
+            "folders": [
+                {
+					"name": "",
+                    "services": [
+						{ "name": "New_York", "type":"dynamic", "displayName":"Suffolk County South Shore", "showLayers": [
+                                {"id":61, "parentLayerId":-1 },
+                                {"id":62, "parentLayerId":-1 },
+                                {"id":63, "parentLayerId":-1 },
+                                {"id":64, "parentLayerId":-1 },
+                                {"id":65, "parentLayerId":-1 },
+                                {"id":66, "parentLayerId":-1 }
+							]
+						}	
+					]
+				}
+			]
+        }
+	}
+]
