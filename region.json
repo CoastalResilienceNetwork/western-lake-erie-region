@@ -1,8 +1,8 @@
 {
     "googleAnalyticsPropertyId": "7401895-16",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Coastal Resilience", "url": "http://coastalresilience.org/" },
-    "titleDetail": { "text": "New York", "url": "http://coastalresilience.org/geographies/new-york-and-connecticut" },
+    "titleMain": { "text": "Coastal Resilience", "url": "http://maps.coastalresilience.org/" },
+    "titleDetail": { "text": "Western Lake Erie", "url": "http://coastalresilience.org/" },
 	"headerLinks": [
 	{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
         { "text": "The Nature Conservancy", "url": "http://nature.org/" },
