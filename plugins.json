@@ -2,11 +2,13 @@
   "plugins": [
     {
       "repo": "regional-planning",
-      "name": "regional-planning"
+      "name": "regional-planning",
+      "ver": "9099f8e"
     },
     {
-      "repo": "map-tree",
-      "name": "community_planning"
+      "repo": "regional-planning",
+      "name": "community_planning",
+      "ver": "9099f8e"
     }
   ]
 }
